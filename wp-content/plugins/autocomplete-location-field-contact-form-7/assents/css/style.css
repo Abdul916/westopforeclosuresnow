@@ -1,0 +1,26 @@
+.full-field label,.slim-field-left label,.slim-field-right label{
+	    width: 100%;
+    display: inline-block;
+}
+.full-field input,.slim-field-left input,.slim-field-right input{
+	width: 100%;
+    display: inline-block;
+}
+.full-field{
+	display: inline-block;
+	width: 100%;
+}
+.slim-field-left{
+	display:inline-block ;
+	width: 48%;
+	float: left;
+}
+.slim-field-right{
+	display:inline-block ;
+	width: 48%;
+	float: right;
+}
+.gwaa_map{
+  height:300px;
+  display: none;
+}

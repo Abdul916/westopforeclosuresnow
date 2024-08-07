@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#clicksend-contactform7 #notify_msg {
+    min-height: 100px;
+}
